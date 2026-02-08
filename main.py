@@ -39,6 +39,7 @@ movesAhead = 4
 # NOTE: Do not use 0 for the group number
 input = []
 
+# Example names
 input.append(('Jill', 1))
 input.append(('Steve', 1))
 
@@ -65,8 +66,8 @@ input.append(('Bailey', 6))
 input.append(('Joey', 6))
 input.append(('Oakley', 6))
 
-input.append(('Lindsay', 7))
-input.append(('Peter', 7))
+input.append(('Milly', 7))
+input.append(('Gabe', 7))
 
 input.append(('Stephany', 8))
 input.append(('Matt', 8))
